@@ -11,5 +11,5 @@ Using Figma, I designed multiple screens including a home page with real-time te
 
 This project helped me strengthen my UI/UX design skills, especially in areas like visual hierarchy, layout consistency, icon usage, and user-centered thinking. Overall, the redesigned weather app offers a sleek and user-friendly experience that improves both aesthetics and functionality.
 
-Output : 
-           https://github.com/user-attachments/assets/b1b3212d-95e9-46f8-b101-1ca5df066920
+Output :   
+              https://github.com/user-attachments/assets/b1b3212d-95e9-46f8-b101-1ca5df066920
